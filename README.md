@@ -48,8 +48,15 @@
 
 <br>
 
+## 2024 Project
+- [addressbook](https://github.com/hann0424/addressbook)
+- [TM002](https://github.com/hann0424/teachablemachine)
+- [yolo5](https://github.com/hann0424/yolo5_practice/blob/main/_%EA%B0%9D%EC%B2%B4_%ED%83%90%EC%A7%80_(Object_Detection)_YOLO%EC%9D%98_%EB%AA%A8%EB%93%A0%EA%B2%83_2024.ipynb)
+- ... ✍
 
-## Project
-- [SimpleGamblingGame]()
-- [ArraysAndBlocksGame]()
-- [SnakeGame]()
+<br>
+
+## 2023 Project
+- [SimpleGamblingGame](https://github.com/hann0424/DiceGame)
+- [ArraysAndBlocksGame](https://github.com/hann0424/BlockArrayGame)
+- [SnakeGame](https://github.com/hann0424/SnakeGame)
