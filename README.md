@@ -50,6 +50,6 @@
 
 
 ## Project
-- [SimpleGamblingGame](https://github.com/jysung1122/blogProject)
-- [ArraysAndBlocksGame](https://github.com/jysung1122/blogProject)
-- [SnakeGame](https://github.com/jysung1122/blogProject)
+- [SimpleGamblingGame]()
+- [ArraysAndBlocksGame]()
+- [SnakeGame]()
