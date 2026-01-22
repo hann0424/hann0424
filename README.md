@@ -1,9 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=250&section=header&text=Hi,%20everyone.&fontSize=40&fontColor=000000&desc=This%20is%20Han's%20github!&descSize=30&descAlignY=65" />
 
+<!--
 #### 안녕하세요👋. 저는 AI-빅데이터 학과에 재학 중인 최용한입니다. <br>
 #### 또한 미디어디자인-영상 전공을 부전공으로 배우고 있습니다. <br><br>
 
 #### 2024년, 현재는 IT교육센터에서 AI과정을 배우고 있습니다. <br>
+-->
 <br>
 <br>
 <br>
